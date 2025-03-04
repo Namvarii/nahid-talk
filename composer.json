@@ -14,7 +14,7 @@
     "php": ">=8.1",
     "illuminate/contracts": ">=5.1.0",
     "illuminate/support": ">=5.1.0",
-    "nesbot/carbon": "^2.70",
+    "nesbot/carbon": "^2.70 || ^3.0",
     "pusher/pusher-php-server": "*",
     "predis/predis": "^2.2",
     "mpratt/embera": "^2.0"
