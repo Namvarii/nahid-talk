@@ -1,8 +1,8 @@
 {
-    "name": "alexkag/nahid-talk",
+    "name": "namvarii/nahid-talk",
     "description": "Talk is a Laravel based realtime messaging, chatting and conversation system. It helps to develop users messaging, chatting and conversations in easy way.",
     "keywords": ["message", "inbox", "conversations", "chat", "php", "laravel", "realtime", "real-time"],
-    "homepage": "https://github.com/alexkag/nahid-talk",
+    "homepage": "https://github.com/namvarii/nahid-talk",
     "license": "MIT",
     "authors": [
         {
@@ -22,7 +22,7 @@
   "require-dev": {
     "ext-json": "*",
     "graham-campbell/testbench": "^3.1 || ^4.0 || ^5.0",
-    "phpunit/phpunit": "^4.8 || ^5.0 || ^7.0 || ^8.0"
+    "phpunit/phpunit": "^4.8 || ^5.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
   },
   "autoload": {
     "classmap": [
